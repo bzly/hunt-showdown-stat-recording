@@ -1,5 +1,8 @@
 
 # Hunt: Showdown Stat Recording
+
+Update: as of the switch to CryEngine 5, Hunt no longer stores these values locally in a file. They're stored in memory and that's too risky for tinkering. As a result, I'm archiving this project.
+
 Tools to get statistics from your last Hunt match, with the goal of eventually watching for changes and recording the data after every match.
 
 Written in PowerShell. 
